@@ -1,54 +1,49 @@
-🌱 Crop Website
+# 🌱 Crop Website
 
 A modern web application that helps users explore, search, and learn about different types of crops and agricultural practices.
 The platform provides categorized crop information such as cereals, fruits, vegetables, spices, and fiber crops, making it easier for users to discover agricultural knowledge.
 
-📸 Demo
+---
 
-Replace demo.png with the screenshot of your website.
+## 🚀 Features
 
-🚀 Features
-
-🌾 Crop Exploration
+🌾 **Crop Exploration**
 Browse different types of crops with visually appealing cards.
 
-🔎 Search Functionality
+🔎 **Search Functionality**
 Quickly search for crops using the search bar.
 
-🏷 Category Filtering
+🏷 **Category Filtering**
 Filter crops by categories such as:
 
-Fiber
+* Fiber
+* Cereal
+* Commercial
+* Fruit
+* Vegetable
+* Spice
 
-Cereal
-
-Commercial
-
-Fruit
-
-Vegetable
-
-Spice
-
-📱 Responsive Design
+📱 **Responsive Design**
 Fully responsive layout that works on desktop, tablet, and mobile devices.
 
-⚡ Fast Performance
+⚡ **Fast Performance**
 Built with Vite for fast development and optimized production builds.
 
-🛠 Tech Stack
+---
 
-⚡ Vite
+## 🛠 Tech Stack
 
-🟦 TypeScript
+* Vite
+* TypeScript
+* Tailwind CSS
+* ESLint
+* HTML5
 
-🎨 Tailwind CSS
+---
 
-🧹 ESLint
+## 📂 Project Structure
 
-🌐 HTML5
-
-📂 Project Structure
+```
 crop-website
 │
 ├── dist/                 # Production build files
@@ -68,38 +63,54 @@ crop-website
 ├── tsconfig.node.json
 │
 └── vite.config.ts        # Vite configuration
-⚙️ Installation
+```
 
-Clone the repository:
+---
 
-git clone https://github.com/your-username/crop-website.git
+## ⚙️ Installation
 
-Move into the project directory:
+Clone the repository
 
+```
+git clone <repository-name>
+```
+
+Move into the project directory
+
+```
 cd crop-website
+```
 
-Install dependencies:
+Install dependencies
 
+```
 npm install
-💻 Run the Project
+```
 
-Start the development server:
+---
 
+## 💻 Run the Project
+
+Start the development server
+
+```
 npm run dev
+```
 
-Open in browser:
+---
 
-http://localhost:5173
-🏗 Build for Production
+## 🏗 Build for Production
+
+```
 npm run build
+```
 
-The production files will be generated inside:
+The production files will be generated inside the **dist** folder.
 
-dist/
-👨‍💻 Author
+---
 
-Sree Bhargav
+## 👨‍💻 Author
 
-💼 Full Stack Developer
+Sree Bhargav Reddy Daggula
 
-🎨 UI/UX Designer
+Full Stack Developer | UI/UX Designer
